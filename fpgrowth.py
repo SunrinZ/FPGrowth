@@ -1,6 +1,5 @@
 #!/home/python/bin/python
 #coding:utf8
-# this is test file  
 
 def ShowFpnodeList(fpnode_list):	# Z 显示 FP 节点列表
 	print '---------------------------'
